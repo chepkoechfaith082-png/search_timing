@@ -1,5 +1,3 @@
-# search_timing
-Search algorithms timing program
 /*
 Project: Search Algorithms Time Analysis
 
